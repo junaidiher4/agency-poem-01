@@ -1,32 +1,31 @@
 import os
 
-POEM = """My agent knows my grandmother's recipes by heart.
-It weighs the saffron to the milligram,
-simmers the broth four hours, to the minute,
-and never burns the garlic.
+POEM = """For forty years my father wrote me a letter every birthday.
+In blue ink, in his hand, the same first line:
+Son, another year, and you still haven't learned to write back.
 
-Every Sunday it cooks for my daughter.
-It plates it like a photograph.
-She eats and says, Thank you, Mama,
-and I say, You're welcome,
-though I did nothing.
+When his hands went, the agent took the pen.
+It has his handwriting from the good years,
+every loop, every slant. It writes the letters now.
+They arrive on time. They sound like him.
+They are not him.
 
-Today it asks, Shall I?
-I say, No. Today, me.
+This year my daughter turned sixteen.
+The agent laid out the paper and the blue ink
+and offered to write it in his hand, perfect, ready.
+I said, No. This one is mine.
+It set the pen down. It did not help.
 
-I crush the garlic with the flat of the knife,
-the way her hands did. The pan is too hot.
-It browns too fast. The kitchen fills
-with the smell of almost ruined.
+I wrote it wrong. I crossed out a line.
+My hand shook. The ink smudged where I stopped
+to remember how he signed his name.
 
-My daughter comes in, breathes it in, and says,
-It smells like hers.
-
-She takes the spoon, eats standing up,
-straight from the pan, burning her tongue,
-the way I did at her age.
-It tastes like hers.
-It tastes like mine.
+She read it twice. She folded it into four,
+the way he used to fold his,
+and put it in her pocket.
+The agent's letters are still on the fridge,
+held by magnets.
+Mine is the only one she kept.
 """
 
 def main():
