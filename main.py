@@ -1,31 +1,25 @@
 import os
 
-POEM = """For forty years my father wrote me a letter every birthday.
-In blue ink, in his hand, the same first line:
-Son, another year, and you still haven't learned to write back.
+POEM = """My mother played it for me every night,
+the same song, on the piano with the chipped key,
+until I fell asleep.
+When she went, the agent took the bench.
+It plays it better than she ever did.
+No wrong notes. It never touches the chipped key.
+It has played my daughter to sleep for ten years,
+every night at eight, without being asked.
 
-When his hands went, the agent took the pen.
-It has his handwriting from the good years,
-every loop, every slant. It writes the letters now.
-They arrive on time. They sound like him.
-They are not him.
+Tonight my daughter asked me to play.
+I sat down. The bench was still warm.
+I missed the notes. I stopped. I started again.
+The agent sat with its keys still.
+It did not help.
 
-This year my daughter turned sixteen.
-The agent laid out the paper and the blue ink
-and offered to write it in his hand, perfect, ready.
-I said, No. This one is mine.
-It set the pen down. It did not help.
-
-I wrote it wrong. I crossed out a line.
-My hand shook. The ink smudged where I stopped
-to remember how he signed his name.
-
-She read it twice. She folded it into four,
-the way he used to fold his,
-and put it in her pocket.
-The agent's letters are still on the fridge,
-held by magnets.
-Mine is the only one she kept.
+She clapped. 'Again.'
+I played it wrong the same way twice,
+the way my mother used to,
+on the chipped key.
+It was the first time the song had ever been mine.
 """
 
 def main():
